@@ -15,13 +15,14 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/Briancasillas17/-Budget-Tracker"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/Briancasillas17/-Budget-Tracker#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.16"
   }
 }
