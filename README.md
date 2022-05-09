@@ -22,19 +22,12 @@ To start the server, run `npm start`. To access the app after starting the serve
 
 ## Example Usage
 
-Deployed App:
+Deployed App: https://pacific-forest-54909.herokuapp.com/
 
 An example screenshot of the application is below.
 
-![screenshot]()
-
-## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-If you want to contribute, open a Pull Request and include a detailed description and screenshots of the changes.
-
 ## Questions
-
+contact me at briancasillas67@yahoo.com or at github.com/briancasillas17
